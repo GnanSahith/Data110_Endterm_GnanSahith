@@ -1,0 +1,15 @@
+BASELINE DECISION TREE
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+Top Feature Importances:
+Alkhol > AreaQ > Age > Smokes
+
+PCA + DECISION TREE
+n_components: 4
+Cumulative explained variance: 1.00
+Accuracy: 0.917
+Precision: 0.857
+Recall: 1.00
+F1: 0.923
